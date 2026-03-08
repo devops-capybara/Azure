@@ -1,0 +1,13 @@
+Infrastruktura jako usluga (IaaS) jest najbardziej elastyczna kategoria uslug w chmurze, poniewaz zapewnia zapewnia maksymalna kontrole nad zasobami w chmurze.
+W modelu IaaS dostawca uslug w chmurze jest odpowiedzialny za utrzymanie sprzetu, lacznosci sieciowej z internetem i zabezpieczen fizycznych.
+Ty jako Devops odpowiadasz za wszystkie inne elementy:
+	- instalacje
+	- konfiguracje
+	- konserwacje OS
+	- konfiguracje sieci
+	- konfiguracje bazy danych
+	- magazyny
+Dzieki usludze IaaS zasadniczo wynajmujesz sprzet w centrum danych w chmurze, ale to, co robisz z tym sprzetem zalezy od Ciebie
+
+Przy IaaS najwiecej odpowiedzialnosci spoczywa na Tobie. Dostawca chmury jest odpwoedzialny tylko za utrzymanie infrastruktury fizyczneji jej dostepu do internetu. To ty odpowiadasz za instalacje i konfiguracje, stosowanie poprawek i aktualiacji oraz zabezpieczen
+
